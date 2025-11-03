@@ -33,12 +33,3 @@ This project analyzes a global survey of data professionals to understand compen
 
 ## Outcome
 This project demonstrates my ability to transform survey data into **business-ready insights** using Power BI. The final dashboard makes exploration easy and supports strategic decisions with a clean, interactive visual experience.
-
----
-
-Project comming soon as per the www.local:poertal thought of right https://www.locaol.icom and this one will not be expected 
-
-- SQL
-- workbench
-- icon
-- ironc
